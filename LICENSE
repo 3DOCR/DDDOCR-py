@@ -1,0 +1,41 @@
+DDD-OCR-PY LICENSE
+
+Copyright (c) 2025 3DOCR.com, 3DOCR
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to use
+the Software solely for the purpose of building applications or services that
+communicate with the 3DOCR.com service.
+
+Restrictions:
+
+1. Redistribution and Sale
+   - You may NOT redistribute, sell, sublicense, rent, or otherwise
+     provide the Software to any third party, whether in original or modified
+     form.
+
+2. Modification
+   - You may NOT modify, adapt, translate, reverse engineer, decompile,
+     or create derivative works of the Software.
+
+3. Commercial Use
+   - You MAY use the Software in your own commercial or non-commercial
+     applications and services, provided such use is only to access and
+     interact with the 3DOCR.com service.
+
+4. Ownership
+   - All rights, title, and interest in and to the Software remain with
+     the copyright holder.
+
+5. Disclaimer
+   - THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+     EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+     MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+     IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+     TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+     SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------
+This license is "source-available" but NOT an OSI-approved open source license.
+By using the Software, you agree to these terms.
